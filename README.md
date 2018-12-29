@@ -7,8 +7,8 @@
    * pygpu 0.7.6
    
 ## 分割效果
-<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1.png" width="320" height="320"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2.png" width="320" height="320"/>
-<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1_maskpred.png" width="320" height="320"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2_maskpred.png" width="320" height="320"/>
+<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1.png" width="320" height="280"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2.png" width="320" height="280"/>
+<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1_maskpred.png" width="320" height="280"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2_maskpred.png" width="320" height="280"/>
 
 ## 数据集
    [ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)
@@ -22,7 +22,7 @@ import keras.backend as K
 K.set_image_dim_ordering('th')
 ```
 ## KERAS 2.0
-data.py、u_net.py、u_model.py均已修改为keras2.0支持，其中u_model的相应修改如下：
+data.py、u_net.py、u_model.py均已修改为keras2.0支持，其中u_model的结构相应修改如下：
 <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/EG.png" width="650" height="250"/>
 
 ## numpy数据准备
