@@ -7,8 +7,8 @@
    * pygpu 0.7.6
    
 ## 分割效果
-<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1.png" width="320" height="280"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2.png" width="320" height="280"/>
-<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1_maskpred.png" width="320" height="280"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2_maskpred.png" width="320" height="280"/>
+<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1.png" width="320" height="230"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2.png" width="320" height="230"/>
+<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_1_maskpred.png" width="320" height="230"/> <img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/img_2_maskpred.png" width="320" height="230"/>
 
 ## 数据集
    [ultrasound-nerve-segmentation](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)
