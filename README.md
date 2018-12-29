@@ -23,7 +23,7 @@ K.set_image_dim_ordering('th')
 ```
 ## KERAS 2.0
 data.py、u_net.py、u_model.py均已修改为keras2.0支持，其中u_model的相应修改如下：
-<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/EG.png" width="320" height="320"/>
+<img src="https://github.com/RoyceMao/2D-Ultrasound-detection-and-segmentation/blob/master/img/EG.png" width="650" height="250"/>
 
 ## numpy数据准备
 
